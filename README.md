@@ -1,3 +1,3 @@
 # iOS-Lab
 
-![Alt text](preview1.png)
+<img src="preview1.png" alt="Alt text" width="200"/>
