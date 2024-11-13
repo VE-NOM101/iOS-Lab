@@ -1,3 +1,3 @@
 # iOS-Lab
 
-![Alt text](preview1.jpg)
+![Alt text](preview1.png)
